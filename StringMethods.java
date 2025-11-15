@@ -1,6 +1,6 @@
 public class StringMethods {
-    public static void main(String[] args) {
-
+    public static void main(String[] args)
+    {
         System.out.println("1. length() : RETURNS THE NUMBER OF CHARACTERS IN THE STRING (INCL. SPACES)");
         String s1 = "JAVA";
         System.out.println("No. of characters in \"" + s1 + "\" is : " + s1.length());
@@ -57,7 +57,8 @@ public class StringMethods {
         String s11 = "Java Makes You Think";
         System.out.println("Splitting \"" + s11 + "\" gives : ");
         String[] parts = s11.split(" ");
-        for (String p : parts) {
+        for(String p : parts)
+        {
             System.out.println(p);
         }
         System.out.println("<-------------------------------------------------->");

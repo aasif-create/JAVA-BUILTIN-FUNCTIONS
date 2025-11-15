@@ -1,6 +1,7 @@
 import java.util.*;
 public class CollectionMethods {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         System.out.println("1. Collections.sort() : SORTS THE LIST IN ASCENDING ORDER");
         ArrayList<Integer> list1 = new ArrayList<>(Arrays.asList(50, 10, 30, 20));
         Collections.sort(list1);

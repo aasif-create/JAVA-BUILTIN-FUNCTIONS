@@ -1,6 +1,6 @@
 public class MathMethods {
-    public static void main(String[] args) {
-
+    public static void main(String[] args)
+    {
         System.out.println("1. Math.abs() : RETURNS THE ABSOLUTE (POSITIVE) VALUE");
         int a = -25;
         System.out.println("Absolute value of " + a + " is : " + Math.abs(a));

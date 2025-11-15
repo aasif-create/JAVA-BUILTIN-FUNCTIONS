@@ -1,6 +1,6 @@
 public class WrapperMethods {
-    public static void main(String[] args) {
-
+    public static void main(String[] args)
+    {
         System.out.println("1. Integer.parseInt() : CONVERTS STRING TO INTEGER");
         String s1 = "125";
         int n1 = Integer.parseInt(s1);

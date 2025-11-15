@@ -1,6 +1,7 @@
 import java.util.Arrays;
 public class ArrayMethods {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         System.out.println("1. Arrays.sort() : SORTS THE ARRAY IN ASCENDING ORDER");
         int[] arr1 = {40, 10, 90, 20, 70};
         Arrays.sort(arr1);
