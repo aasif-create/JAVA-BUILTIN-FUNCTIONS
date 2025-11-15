@@ -31,7 +31,6 @@ PRACTISED THE BUILT-IN FUNCTIONS IN JAVA TO UNDERSTAND HOW DIFFERENT METHODS WOR
 3. Arrays.equals()
 4. Arrays.copyOf()
 5. Arrays.fill()
-6. Arrays.binarySearch()
 
 # 4. COLLECTIONS UTILITY METHODS : Methods used to manage dynamic data structures like ArrayList, Set, and Map.
 1. Collections.sort()
